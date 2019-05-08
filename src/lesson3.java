@@ -88,3 +88,25 @@ public class lesson3 {
         }//end switch
     }//end main
 }//end class
+
+//Switches do not work on dome datatypes eg: boolean, float, double,
+
+/*  Switch basic syntax
+            switch (myVariable){
+               case ...:
+                   <staements to execute>
+                   break;
+                case ....:
+                   <staements to execute>
+                      break;
+                case.....:
+                   <staements to execute>
+                   break;
+                case...n..:
+                   <staements to execute>
+                  break;
+                 default:
+                    <staements to execute>
+                    break;
+            }
+*/
