@@ -1,3 +1,4 @@
+//8th may 2019
 //loops
 public class lesson3b {
 
@@ -28,7 +29,7 @@ public class lesson3b {
 
         System.out.println("\nWhile loop 3");
         int counter2 = 10;
-        while (counter2>1){
+        while (counter2>=1){
             System.out.println(counter2);
             counter2--;
         }//end while
