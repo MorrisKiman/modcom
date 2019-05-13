@@ -1,3 +1,4 @@
+//6th May
 import java.util.Scanner;
 
 public class assignment1 {

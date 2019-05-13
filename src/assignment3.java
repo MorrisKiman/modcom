@@ -30,13 +30,18 @@ public class assignment3 {
                 int num2 = scan1.nextInt();
                 System.out.print("Enter the length of its multiplication table");
                 int length = scan1.nextInt();
-                int counter = 1;
+                //int counter = 1;
 
-                while(counter<=length){
+                for(int counter = 1; counter<=length; counter++){
+                    int ans = num2 * counter;
+                    System.out.println(counter+" X "+ num2 + " = "+ans);
+                }
+
+               /* while(counter<=length){
                     int ans = num2 * counter;
                     System.out.println(counter+" X "+ num2 + " = "+ans);
                     counter++;
-                }//end while
+                }//end while*/
 
         }//end switch
 
