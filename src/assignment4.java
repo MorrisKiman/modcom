@@ -1,6 +1,7 @@
-import java.lang.reflect.Array;
-import java.util.Scanner;
 
+import java.lang.reflect.Array;
+//10th may 2019
+import java.util.Scanner;
 public class assignment4 {
     public static void main(String [] args) {
         Scanner scan1 = new Scanner(System.in);
