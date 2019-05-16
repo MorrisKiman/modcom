@@ -30,6 +30,7 @@ public class External_Method_Call_Tester {
         nhiF = scan1.nextInt();
         System.out.print("\nEnter NSFF: ");
         nssF = scan1.nextInt();
+
         double[] rezult = lesson5.payeeCalc(basic, hseAllow, transAllow, nssF, nhiF);
         System.out.println("Your Gross Pay is: KSH" +rezult[0]+" and your net pay is: KSH"+rezult[1]);
 

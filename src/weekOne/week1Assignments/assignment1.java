@@ -1,4 +1,4 @@
-package weekOne;//6th May
+package weekOne.week1Assignments;//6th May
 import java.util.Scanner;
 
 public class assignment1 {

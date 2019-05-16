@@ -1,4 +1,4 @@
-package weekOne;
+package weekOne.week1Assignments;
 
 import java.lang.reflect.Array;
 //10th may 2019
