@@ -44,3 +44,11 @@ public class OOP_tester {
         //now we need to know the bbalance that I have from the constant in my OOP_constants java file called SCHOOL_FEES.
     }//end main
 }//end class
+
+//;try to recreate this scenario. A method for paying fees, showing how much has been paid and the balance left and use an abject to do all this.
+
+// Create an account class (object) with an account test
+//the account should have states (name, blalance, accNo, phone)
+// behaviors (checkdetails, deposit==>{cant deposit <100 || >70,000(these two are constants that are set)}),
+//      ||=> withdrawal, cant withdraw more than (balance - 30) or ksh0.
+//mix void and returns
