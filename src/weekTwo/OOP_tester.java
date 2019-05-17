@@ -2,6 +2,7 @@ package weekTwo;
 
 import weekTwo.week2Assignments.OOP_constants;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class OOP_tester {
@@ -11,6 +12,10 @@ public class OOP_tester {
         OOP object = new OOP("Morris Kimani", "IT", 34, 2345, 23000);//If you point the class you get an error. Point the constructor
         //above will provide the oject with states through the constructor
         object.checkDetails(2345);
+
+        //use this for the bank oop
+        ArrayList<OOP> alist = new ArrayList<>();
+        alist.add(object);
 
         for (int i = 0; i<=2; i++) {
             if ( object.balance() >= OOP_constants.SCHOOL_FEES) {

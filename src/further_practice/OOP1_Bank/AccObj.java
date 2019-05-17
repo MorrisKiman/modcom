@@ -58,4 +58,6 @@ public class AccObj {
     int me = 2019;
 
     //while this comment stands, this code is not running as it should
+    //look into object arrays
+    //the way I created the object might be the const
 }

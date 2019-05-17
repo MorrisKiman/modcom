@@ -1,4 +1,7 @@
 package weekTwo;
+
+import javax.swing.*;
+
 // 16-May-2019
 public class OOP {
     /* A class is a blueprint where Java code is written (Statements, objects (eg Scanner) and variables)
@@ -56,6 +59,7 @@ public class OOP {
     public void payFees (int admissionNo, double amount){
         if (admissionNo == this.admNo || amount <1){
             this.fee += amount;
+
             System.out.println("You have paid KSH" +this.fee+ " for " +name);
 
         } else {
@@ -68,3 +72,6 @@ public class OOP {
     }//end balance
 
 }//end class
+
+//method overloading
+//two methods with the same name but different parameters
