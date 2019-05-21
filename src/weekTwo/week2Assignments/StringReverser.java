@@ -1,7 +1,5 @@
 package weekTwo.week2Assignments;
 
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
-
 import java.util.Scanner;
 
 public class StringReverser {

@@ -1,7 +1,5 @@
 package weekTwo.week2Assignments.OOP_Assignment;
 
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
-
 public class MyAccount {
     String name = "Morris Kimani", accountType = "Savings Account", contacts = "079655432";
     double accBalance;
