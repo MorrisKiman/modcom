@@ -1,4 +1,4 @@
-package Week3.week3Assignments;
+package Week3.Assignmentsweek3;
 
 public class Assifnment1_super {
     int x;

@@ -1,10 +1,8 @@
 //21 - May - 2019
-package Week3.week3Assignments;
+package Week3.Assignmentsweek3;
 
 //I will use this class to create methods that I will get to post after the math has been completed
 
-
-import javax.swing.plaf.synth.SynthRadioButtonMenuItemUI;
 
 public class Assifnment1_methods {
     String reply1 = "The Answer of yout arithmetic operation is a whole number\n Meaning that it has no reminders";

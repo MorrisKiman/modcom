@@ -4,7 +4,7 @@
         1. Demontrate how you catch an exception when  two numbers are divided (Use a method with parameters)
 */
 
-package Week3.week3Assignments;
+package Week3.Assignmentsweek3;
 
 import java.util.Scanner;
 

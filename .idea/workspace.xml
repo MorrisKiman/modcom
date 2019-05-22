@@ -5,100 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad6e7d55-b7e2-4c4d-94fb-26992acfb27b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_face.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week3/week3Assignments/Assignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week3/week3Assignments/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/User_Interfaces/Calculators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/User_Interfaces/Interface_Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/User_Interfaces/explanation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/ExceptionHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/ExceptionHandling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/ArrayTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/ifStatementTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson2a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson2b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson3_Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson3b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson3c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson4D_Arrays2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson4b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/lesson4c_arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/week1Assignments/assignment1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/week1Assignments/assignment2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/week1Assignments/assignment2B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/week1Assignments/assignment3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekOne/week1Assignments/assignment4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/External_Method_Call_Tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/Fish_Inheritance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/Lesson6_Encapulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/OOP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/OOP_tester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/Overloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/Shark_inheritance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/Test_Inheritance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/Whale_inheritance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/lesson5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/InheritanceAssigno/Appointment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/InheritanceAssigno/Appointment_Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/InheritanceAssigno/FooCorporation/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/InheritanceAssigno/FooCorporation/FooCoporation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/InheritanceAssigno/FooCorporation/Foo_Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/InheritanceAssigno/FooCorporation/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/OOP_Assignment/MyAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/OOP_Assignment/MyAccountTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/OOP_Assignment/MyAccount_Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/OOP_constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/StringReverser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/assignment5b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/weekTwo/week2Assignments/lesson6_EncapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/ArrayTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/ArrayTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/ifStatementTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/ifStatementTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson2a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson2a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson2b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson2b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson3_Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson3_Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson3b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson3b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson3c.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson3c.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson4D_Arrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson4D_Arrays2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson4b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson4b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/lesson4c_arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/lesson4c_arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/week1Assignments/assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/week1Assignments/assignment1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/week1Assignments/assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/week1Assignments/assignment2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/week1Assignments/assignment2B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/week1Assignments/assignment2B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/week1Assignments/assignment3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/week1Assignments/assignment3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekOne/week1Assignments/assignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/week1Assignments/assignment4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/External_Method_Call_Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/External_Method_Call_Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/Fish_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Fish_Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/Lesson6_Encapulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Lesson6_Encapulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/OOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/OOP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/OOP_tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/OOP_tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/Shark_inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Shark_inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/Test_Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Test_Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/Whale_inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/Whale_inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/lesson5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/lesson5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/InheritanceAssigno/Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/InheritanceAssigno/Appointment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/InheritanceAssigno/Appointment_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/InheritanceAssigno/Appointment_Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/InheritanceAssigno/FooCorporation/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/InheritanceAssigno/FooCorporation/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/InheritanceAssigno/FooCorporation/FooCoporation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/InheritanceAssigno/FooCorporation/FooCoporation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/InheritanceAssigno/FooCorporation/Foo_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/InheritanceAssigno/FooCorporation/Foo_Interface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/InheritanceAssigno/FooCorporation/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/InheritanceAssigno/FooCorporation/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/OOP_Assignment/MyAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/OOP_Assignment/MyAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/OOP_Assignment/MyAccountTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/OOP_Assignment/MyAccountTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/OOP_Assignment/MyAccount_Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/OOP_Assignment/MyAccount_Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/OOP_constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/OOP_constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/StringReverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/StringReverser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/assignment5b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/assignment5b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekTwo/week2Assignments/lesson6_EncapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week2/week2Assignments/lesson6_EncapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/week3Assignments/Assifnment1_face.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/week3Assignments/Assifnment1_methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/week3Assignments/Assifnment1_super.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/week3Assignments/Assignment2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/week3Assignments/text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_face.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assifnment1_face.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assifnment1_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assifnment1_super.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/week3Assignments/Assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assignment2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/week3Assignments/text" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/text" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -126,23 +46,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Week3/week3Assignments/Assignment2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/Interface_Sample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="136">
+              <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2372#2373#0" expanded="true" />
+                <element signature="e#2440#2441#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week3/week3Assignments/text">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/Calculators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="150">
+              <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,10 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ArrayTask.java" />
-        <option value="$PROJECT_DIR$/src/lesson4D_Arrays2.java" />
-        <option value="$PROJECT_DIR$/src/assignment4.java" />
-        <option value="$PROJECT_DIR$/src/further_practice/PalindromeProgram.java" />
         <option value="$PROJECT_DIR$/src/further_practice/GUI1/Login.java" />
         <option value="$PROJECT_DIR$/src/further_practice/GUI1/Login.form" />
         <option value="$PROJECT_DIR$/src/further_practice/Student_Marks.java" />
@@ -225,6 +146,10 @@
         <option value="$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_face.java" />
         <option value="$PROJECT_DIR$/src/Week3/week3Assignments/text" />
         <option value="$PROJECT_DIR$/src/Week3/week3Assignments/Assignment2.java" />
+        <option value="$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assignment2.java" />
+        <option value="$PROJECT_DIR$/src/Week3/User_Interfaces/explanation" />
+        <option value="$PROJECT_DIR$/src/Week3/User_Interfaces/Interface_Sample.java" />
+        <option value="$PROJECT_DIR$/src/Week3/User_Interfaces/Calculators.java" />
       </list>
     </option>
   </component>
@@ -234,7 +159,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="19" />
     <option name="y" value="30" />
     <option name="width" value="1341" />
@@ -270,7 +195,7 @@
               <item name="modcom" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Week3" type="462c0819:PsiDirectoryNode" />
-              <item name="week3Assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="User_Interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Assignment2">
+  <component name="RunManager" selected="Application.Interface_Sample">
     <configuration name="Appointment_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.week2Assignments.InheritanceAssigno.Appointment_Interface" />
       <module name="Modcom_Classwork" />
@@ -322,11 +247,11 @@
       </method>
     </configuration>
     <configuration name="Assifnment1_face" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.week3Assignments.Assifnment1_face" />
+      <option name="MAIN_CLASS_NAME" value="Week3.Assignmentsweek3.Assifnment1_face" />
       <module name="Modcom_Classwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.week3Assignments.*" />
+          <option name="PATTERN" value="Week3.Assignmentsweek3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,11 +260,11 @@
       </method>
     </configuration>
     <configuration name="Assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week3.week3Assignments.Assignment2" />
+      <option name="MAIN_CLASS_NAME" value="Week3.Assignmentsweek3.Assignment2" />
       <module name="Modcom_Classwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week3.week3Assignments.*" />
+          <option name="PATTERN" value="Week3.Assignmentsweek3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.Test_Inheritance" />
+    <configuration name="Interface_Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.User_Interfaces.Interface_Sample" />
       <module name="Modcom_Classwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.*" />
+          <option name="PATTERN" value="Week3.User_Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -375,11 +300,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interface_Sample" />
         <item itemvalue="Application.Assignment2" />
         <item itemvalue="Application.Assifnment1_face" />
         <item itemvalue="Application.Appointment_Interface" />
         <item itemvalue="Application.ExceptionHandling" />
-        <item itemvalue="Application.Test_Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +347,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18195602" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23351024" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -534,27 +459,6 @@
     <SUITE FILE_PATH="coverage/Modcom_Classwork$ifStatementTask.ic" NAME="ifStatementTask Coverage Results" MODIFIED="1557233647654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/further_practice/PalindromeProgram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week1/lesson4D_Arrays2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week1/ArrayTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week1/lesson4c_arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -873,20 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_methods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_super.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week2/week2Assignments/OOP_Assignment/MyAccount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-120">
@@ -894,24 +784,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_face.java">
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assifnment1_face.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="375">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week3/week3Assignments/text">
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assifnment1_super.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week3/week3Assignments/Assignment2.java">
+    <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/explanation">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assifnment1_methods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assignment2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/Interface_Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2372#2373#0" expanded="true" />
+            <element signature="e#2440#2441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/Calculators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

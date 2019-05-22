@@ -1,8 +1,7 @@
 //overflowed to 22/may/2019 at 3am
-package Week3.week3Assignments;
+package Week3.Assignmentsweek3;
 
 import java.io.File;
-import java.io.IOException;
 import java.util.Scanner;
 
 public class Assignment2 {
@@ -18,7 +17,9 @@ public class Assignment2 {
             }//end while
         } catch (Exception e){
             System.out.println(e.getMessage());
+
         }//end try
 
     }//end main
 }//end class
+//extra try: experiment this using inheritance and  interfaces
