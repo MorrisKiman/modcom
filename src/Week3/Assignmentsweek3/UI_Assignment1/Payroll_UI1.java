@@ -7,7 +7,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Payroll_UI1 {
+/*public class Payroll_UI1 {
     Methds methodes = new Methds();
 
     public static void main(String [] args){
@@ -179,7 +179,6 @@ public class Payroll_UI1 {
 
         frame1.setVisible(true);
     }//end payroll
-    /*
     Double.parseDouble(op_hrsWorked.setText());
     Double.parseDouble(op_hrlyPR.setText());
     Double.parseDouble(op_GrossPay.setText());
@@ -188,4 +187,5 @@ public class Payroll_UI1 {
     Double.parseDouble(op_StateTax.setText());
     Double.parseDouble(op_TotalDed.setText());
     Double.parseDouble(op_netPay.setText());*/
-}//end class
+//}
+//end class
