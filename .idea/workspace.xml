@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad6e7d55-b7e2-4c4d-94fb-26992acfb27b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Week3/User_Interfaces/Calculators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week3/User_Interfaces/Interface_Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week3/User_Interfaces/explanation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Employee_Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Konstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Methds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Payroll_UI1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Payroll_UI2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/week3Assignments/Assifnment1_face.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/week3Assignments/Assifnment1_methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/week3Assignments/Assifnment1_super.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/week3Assignments/Assignment2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/week3Assignments/text" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_face.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assifnment1_face.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assifnment1_methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/week3Assignments/Assifnment1_super.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assifnment1_super.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/week3Assignments/Assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/Assignment2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/week3Assignments/text" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/Assignmentsweek3/text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/User_Interfaces/Calculators$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/User_Interfaces/Calculators$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/User_Interfaces/Calculators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Modcom_Classwork/Week3/User_Interfaces/Calculators.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,27 +41,74 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/Interface_Sample.java">
+        <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/Calculators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
+            <state relative-caret-position="-525">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2372#2373#0" expanded="true" />
-                <element signature="e#2440#2441#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/Calculators.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Methds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+            <state relative-caret-position="120">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Pay_roll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Konstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Payroll_UI1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="126" column="61" selection-start-line="126" selection-start-column="61" selection-end-line="126" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Employee_Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/week2/lesson5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1365">
+              <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -99,11 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/further_practice/GUI1/Login.java" />
-        <option value="$PROJECT_DIR$/src/further_practice/GUI1/Login.form" />
-        <option value="$PROJECT_DIR$/src/further_practice/Student_Marks.java" />
-        <option value="$PROJECT_DIR$/src/weekOne/assignment4.java" />
-        <option value="$PROJECT_DIR$/src/weekTwo/lesson5a.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/lesson5.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/External_Method_Call_Tester.java" />
         <option value="$PROJECT_DIR$/src/weekTwo/week2Assignments/assignment5b.java" />
@@ -150,6 +186,11 @@
         <option value="$PROJECT_DIR$/src/Week3/User_Interfaces/explanation" />
         <option value="$PROJECT_DIR$/src/Week3/User_Interfaces/Interface_Sample.java" />
         <option value="$PROJECT_DIR$/src/Week3/User_Interfaces/Calculators.java" />
+        <option value="$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Konstants.java" />
+        <option value="$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Payroll_UI.java" />
+        <option value="$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Employee_Object.java" />
+        <option value="$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Methds.java" />
+        <option value="$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Payroll_UI1.java" />
       </list>
     </option>
   </component>
@@ -159,11 +200,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="19" />
-    <option name="y" value="30" />
-    <option name="width" value="1341" />
-    <option name="height" value="717" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2" />
+    <option name="y" value="27" />
+    <option name="width" value="1369" />
+    <option name="height" value="746" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,7 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,12 +235,21 @@
               <item name="modcom" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Week3" type="462c0819:PsiDirectoryNode" />
-              <item name="User_Interfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignmentsweek3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="modcom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="modcom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Week3" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignmentsweek3" type="462c0819:PsiDirectoryNode" />
+              <item name="UI_Assignment1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -232,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Interface_Sample">
+  <component name="RunManager" selected="Application.Payroll_UI1">
     <configuration name="Appointment_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week2.week2Assignments.InheritanceAssigno.Appointment_Interface" />
       <module name="Modcom_Classwork" />
@@ -285,7 +334,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interface_Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Interface_Sample" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week3.User_Interfaces.Interface_Sample" />
       <module name="Modcom_Classwork" />
       <extension name="coverage">
@@ -298,9 +347,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Payroll_UI1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week3.Assignmentsweek3.UI_Assignment1.Payroll_UI1" />
+      <module name="Modcom_Classwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week3.Assignmentsweek3.UI_Assignment1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Interface_Sample" />
+        <item itemvalue="Application.Payroll_UI1" />
         <item itemvalue="Application.Assignment2" />
         <item itemvalue="Application.Assifnment1_face" />
         <item itemvalue="Application.Appointment_Interface" />
@@ -347,19 +409,19 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23351024" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21152388" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.25081968" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.43965518" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.39016393" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.35081968" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.24590164" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.42459017" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3262295" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3262295" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Theme Preview" order="0" />
@@ -448,6 +510,18 @@
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Payroll_UI1.java</url>
+          <line>140</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Payroll_UI1.java</url>
+          <line>139</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -459,48 +533,6 @@
     <SUITE FILE_PATH="coverage/Modcom_Classwork$ifStatementTask.ic" NAME="ifStatementTask Coverage Results" MODIFIED="1557233647654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/week1/lesson4c_arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="42" column="80" selection-start-line="42" selection-start-column="80" selection-end-line="42" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week1/lesson2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-164">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week1/lesson2a.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week1/week1Assignments/assignment1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week1/week1Assignments/assignment2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week1/week1Assignments/assignment2B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week1/week1Assignments/assignment3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -554,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week2/lesson5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week2/week2Assignments/lesson6_EncapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -568,31 +593,6 @@
           <folding>
             <element signature="e#0#494#0" expanded="true" />
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week2/Lesson6_Encapulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
-          <folding>
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="e#1079#1080#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -662,23 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week2/OOP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week2/OOP_tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,20 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week2/week2Assignments/OOP_Assignment/MyAccount_Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/week2/week2Assignments/OOP_Assignment/MyAccountTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="41" column="126" selection-start-line="41" selection-start-column="126" selection-end-line="41" selection-end-column="126" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/week2/External_Method_Call_Tester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -829,25 +798,133 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/Interface_Sample.java">
+    <entry file="file://$PROJECT_DIR$/src/week2/OOP_tester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2372#2373#0" expanded="true" />
-            <element signature="e#2440#2441#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week2/OOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week2/Lesson6_Encapulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding>
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week2/week2Assignments/OOP_Assignment/MyAccount_Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week2/week2Assignments/OOP_Assignment/MyAccountTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="36" column="52" lean-forward="true" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/Interface_Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1079">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Payroll_UI2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/week2/lesson5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Week3/User_Interfaces/Calculators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        <state relative-caret-position="-525">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Konstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Payroll_UI1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="126" column="61" selection-start-line="126" selection-start-column="61" selection-end-line="126" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Employee_Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Methds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Assignmentsweek3/UI_Assignment1/Pay_roll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
