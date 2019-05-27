@@ -5,7 +5,10 @@ import java.util.Scanner;
 public class AccInterface {
     
     public static void main(String [] args){
-        AccObj accounts = new AccObj();
+        //create a counter for storing accounts
+        int Acccoun = 1;
+        Account[] accounts = new Account[Acccoun];
+        //int [] r = new int[accountInd];
 
         Scanner scan = new Scanner(System.in);
         int x =0, acNo, cash, indx;
@@ -23,7 +26,7 @@ public class AccInterface {
                 case 1:
                     System.out.print("\n\nPlease enter the Account Number you wish to view:==> ");
                     acNo = scan.nextInt();
-                    for(indx = 0; indx <= accounts.count; indx++) {
+                    for(indx = 0; indx <= accounts; indx++) {
                         if (acNo != accounts.accNumber[indx] && indx!=(accounts.count+1)){
 
                         } else if (acNo == accounts.accNumber[indx]){

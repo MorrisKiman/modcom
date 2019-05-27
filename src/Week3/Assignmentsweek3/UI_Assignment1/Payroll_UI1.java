@@ -1,16 +1,14 @@
 package Week3.Assignmentsweek3.UI_Assignment1;
 
-import week2.week2Assignments.InheritanceAssigno.FooCorporation.Employee;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/*public class Payroll_UI1 {
-    Methds methodes = new Methds();
+public class Payroll_UI1 {
+    //Methds methodes = new Methds();
 
-    public static void main(String [] args){
+    public static void main(String[] args) {
         Payroll_UI1 x = new Payroll_UI1();
         x.pay_Roll();
 
@@ -18,7 +16,7 @@ import java.awt.event.ActionListener;
 
     JFrame frame1;
 
-    public void pay_Roll(){
+    public void pay_Roll() {
         //variables
         //the ui
         frame1 = new JFrame("Morris Payroll System");
@@ -57,42 +55,40 @@ import java.awt.event.ActionListener;
         JLabel op_netPay = new JLabel("----");
 
 
-
-
         //position everything
-        namesLBL.setBounds(20,10, 70,30);
-        hrsWorkedLBL.setBounds(20,50, 100,30);
-        namesTXT.setBounds(130,10, 200,30);
-        hrsWorkedTXT.setBounds(130,50, 100,30);
-        calculateBTN.setBounds(100,90, 200,50);
-        sep.setBounds(0,130, 500, 50);
+        namesLBL.setBounds(20, 10, 70, 30);
+        hrsWorkedLBL.setBounds(20, 50, 100, 30);
+        namesTXT.setBounds(130, 10, 200, 30);
+        hrsWorkedTXT.setBounds(130, 50, 100, 30);
+        calculateBTN.setBounds(100, 90, 200, 50);
+        sep.setBounds(0, 130, 500, 50);
         //Output layering
-        lbl_majina.setBounds(20,170,200,30);
-        op_names.setBounds(150,170,200,30);
+        lbl_majina.setBounds(20, 170, 200, 30);
+        op_names.setBounds(150, 170, 200, 30);
 
-        lbl_hrsWorked.setBounds(20,200,200,30);
-        op_hrsWorked.setBounds(150,200,200,30);
+        lbl_hrsWorked.setBounds(20, 200, 200, 30);
+        op_hrsWorked.setBounds(150, 200, 200, 30);
 
-        lbl_hrlYpayRate.setBounds(20,230,200,30);
-        op_hrlyPR.setBounds(150,230,200,30);
+        lbl_hrlYpayRate.setBounds(20, 230, 200, 30);
+        op_hrlyPR.setBounds(150, 230, 200, 30);
 
-        lbl_GrossPay.setBounds(20,260,200,30);
-        op_GrossPay.setBounds(150,260,200,30);
+        lbl_GrossPay.setBounds(20, 260, 200, 30);
+        op_GrossPay.setBounds(150, 260, 200, 30);
 
-        lbl_Deductions.setBounds(20,290,200,30);
-        op_Deds.setBounds(150,290,200,30);
+        lbl_Deductions.setBounds(20, 290, 200, 30);
+        op_Deds.setBounds(150, 290, 200, 30);
 
-        lbl_FedTax.setBounds(20,320,250,30);
-        op_FedTax.setBounds(260,320,200,30);
+        lbl_FedTax.setBounds(20, 320, 250, 30);
+        op_FedTax.setBounds(260, 320, 200, 30);
 
-        lbl_StateTax.setBounds(20,350,250,30);
-        op_StateTax.setBounds(260,350,200,30);
+        lbl_StateTax.setBounds(20, 350, 250, 30);
+        op_StateTax.setBounds(260, 350, 200, 30);
 
-        lbl_TotalDed.setBounds(20,380,200,30);
-        op_TotalDed.setBounds(150,380,200,30);
+        lbl_TotalDed.setBounds(20, 380, 200, 30);
+        op_TotalDed.setBounds(150, 380, 200, 30);
 
-        lbl_NetPay.setBounds(20,410,200,30);
-        op_netPay.setBounds(100,410,200,30);
+        lbl_NetPay.setBounds(20, 410, 200, 30);
+        op_netPay.setBounds(100, 410, 200, 30);
 
         //add everything to the JFrame for viewing
         frame1.add(namesLBL);
@@ -126,28 +122,22 @@ import java.awt.event.ActionListener;
             public void actionPerformed(ActionEvent actionEvent) {
                 Employee_Object empObj = new Employee_Object();
                 System.out.println("This button has been pressed");
-                if (namesTXT.getText().length()==0 || hrsWorkedTXT.getText().length()==0){
+                if (namesTXT.getText().length() == 0 || hrsWorkedTXT.getText().length() == 0) {
                     System.out.println("Empty Text fields!!");
-                }else {
+                } else {
                     try {
-                            empObj.setNames(namesTXT.getText());
-                            empObj.setHrsWorked(Integer.parseInt(hrsWorkedTXT.getText()));
+                        empObj.setNames(namesTXT.getText());
+                        empObj.setHrsWorked(Integer.parseInt(hrsWorkedTXT.getText()));
 
-                            new Pay_roll("Ken",5);
+                        new Pay_roll("Ken", 5);
+                        empObj.setGrossPay(empObj.getHrsWorked());
+                        empObj.setFederalTax(empObj.getGrossPay());
+                        empObj.setStateTax(empObj.getGrossPay());;
+                        empObj.setTotalDeductions(empObj.getFederalTax(), empObj.getStateTax());
+                        empObj.setNetPay(empObj.getGrossPay(), empObj.getTotalDeductions());
 
-                            methodes.salCalc (Integer.parseInt(hrsWorkedTXT.getText()));
-                            //methodes.allmths();
-                            methodes.fedCalc();
-                            methodes.stateCalc();
-                            methodes.totalDeductions();
-                            methodes.netCalc();
-
-
-
-
-
-                            System.out.println("Methods called and done working!!\n Output time!!");
-                            System.out.println(empObj.getFederalTax());
+                        System.out.println("Methods called and done working!!\n Output time!!");
+                        System.out.println(empObj.getFederalTax());
                         System.out.println(empObj.getStateTax());
                         System.out.println(empObj.getGrossPay());
                         System.out.println(empObj.getTotalDeductions());
@@ -156,16 +146,16 @@ import java.awt.event.ActionListener;
                         System.out.println(empObj.getNetPay());
 
 
-                            //ui output
-                            op_names.setText(empObj.getNames());
-                            op_hrsWorked.setText(String.valueOf(empObj.getHrsWorked()));
-                            op_hrlyPR.setText(String.valueOf(Konstants.HOURLY_PAY_RATE));
-                            op_GrossPay.setText(String.valueOf(empObj.getGrossPay()));
-                            op_Deds.setText(String.valueOf(empObj.getTotalDeductions()));
-                            op_FedTax.setText(String.valueOf(empObj.getFederalTax()));
-                            op_StateTax.setText(String.valueOf(empObj.getStateTax()));
-                            op_TotalDed.setText(String.valueOf(empObj.getTotalDeductions()));
-                            op_netPay.setText(String.valueOf(empObj.getNetPay()));
+                        //ui output
+                        op_names.setText(empObj.getNames());
+                        op_hrsWorked.setText(String.valueOf(empObj.getHrsWorked()));
+                        op_hrlyPR.setText(String.valueOf(Konstants.HOURLY_PAY_RATE));
+                        op_GrossPay.setText(String.valueOf(empObj.getGrossPay()));
+                        op_Deds.setText(String.valueOf(empObj.getTotalDeductions()));
+                        op_FedTax.setText(String.valueOf(empObj.getFederalTax()));
+                        op_StateTax.setText(String.valueOf(empObj.getStateTax()));
+                        op_TotalDed.setText(String.valueOf(empObj.getTotalDeductions()));
+                        op_netPay.setText(String.valueOf(empObj.getNetPay()));
 
                     } catch (Exception e) {
                         System.out.println(e.getMessage());
@@ -176,10 +166,11 @@ import java.awt.event.ActionListener;
         });
 
 
-
         frame1.setVisible(true);
-    }//end payroll
-    Double.parseDouble(op_hrsWorked.setText());
+    }
+
+}//end payroll
+/*    Double.parseDouble(op_hrsWorked.setText());
     Double.parseDouble(op_hrlyPR.setText());
     Double.parseDouble(op_GrossPay.setText());
     Double.parseDouble(op_Deds.setText());

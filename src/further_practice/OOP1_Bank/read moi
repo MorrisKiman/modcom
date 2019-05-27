@@ -1,0 +1,7 @@
+Hello..
+This package was supposed to contain a project where by I have an object
+representing a bank account.
+I wanted to make it into an array of objects allowing me to: add new accounts, update the account details
+through deposits and withdrawals as well as delete the account. Till now I still havent figured out how to do this so
+if you have any insights of how I can go about it, please do so and tell me.
+I will continue to work on it on my side as well.

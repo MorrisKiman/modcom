@@ -1,15 +1,16 @@
 package Week3.Assignmentsweek3.UI_Assignment1;
 
 public class Employee_Object {
+    Methds mt = new Methds();
     private String names;
-    private double hrsWorked =0;
+    private int hrsWorked =0;
     private double grossPay =0;
     private double federalTax= 0;
     private double stateTax =0;
     private double totalDeductions =0;
     private double netPay =0;
 
-    public Employee_Object(String names, int hrsWorked, double grossPay, double federalTax, double stateTax, double totalDeductions, double netPay) {
+    /*public Employee_Object(String names, int hrsWorked, double grossPay, double federalTax, double stateTax, double totalDeductions, double netPay) {
         this.names = names;
         this.hrsWorked = hrsWorked;
         this.grossPay = grossPay;
@@ -17,6 +18,16 @@ public class Employee_Object {
         this.stateTax = stateTax;
         this.totalDeductions = totalDeductions;
         this.netPay = netPay;
+    }
+
+    public Employee_Object(String names, double hrsWorked) {
+        this.names = names;
+        this.hrsWorked = hrsWorked;
+    }*/
+
+    //empty constructor
+    public Employee_Object() {
+
     }
 
     public void setNames(String names) {
@@ -28,23 +39,30 @@ public class Employee_Object {
     }
 
     public void setGrossPay(double grossPay) {
-        this.grossPay = grossPay;
+        mt.grossCalc(hrsWorked);
+        this.grossPay = mt.grossCalc(hrsWorked);
     }
 
     public void setFederalTax(double federalTax) {
+        federalTax = mt.fedCalc(grossPay);
         this.federalTax = federalTax;
     }
 
     public void setStateTax(double stateTax) {
+        stateTax = mt.stateCalc(grossPay);
         this.stateTax = stateTax;
     }
 
-    public void setTotalDeductions(double totalDeductions) {
-        this.totalDeductions = totalDeductions;
+    public void setTotalDeductions(double fedTax, double stateTx) {
+        fedTax = this.federalTax;
+        stateTx = this.stateTax;
+        this.totalDeductions = mt.totalDeductions(fedTax, stateTx);
     }
 
-    public void setNetPay(double netPay) {
-        this.netPay = netPay;
+    public void setNetPay(double gs, double tD) {
+        gs = this.grossPay;
+        tD = this.totalDeductions;
+        this.netPay = mt.netCalc(gs,tD);
     }
 
     //getters
