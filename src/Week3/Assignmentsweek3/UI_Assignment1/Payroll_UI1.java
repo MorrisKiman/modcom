@@ -20,9 +20,9 @@ public class Payroll_UI1 {
         //variables
         //the ui
         frame1 = new JFrame("Morris Payroll System");
-        frame1.setSize(500, 700);
-        frame1.setMaximumSize(new Dimension(500, 150));
-        frame1.setMinimumSize(new Dimension(500, 150));
+        frame1.setSize(500, 480);
+        frame1.setMaximumSize(new Dimension(500, 480));
+        frame1.setMinimumSize(new Dimension(500, 480));
         frame1.getContentPane().setLayout(null);
 
         //labels, textboxes and button definition
@@ -132,7 +132,7 @@ public class Payroll_UI1 {
                         new Pay_roll("Ken", 5);
                         empObj.setGrossPay(empObj.getHrsWorked());
                         empObj.setFederalTax(empObj.getGrossPay());
-                        empObj.setStateTax(empObj.getGrossPay());;
+                        empObj.setStateTax(empObj.getGrossPay());
                         empObj.setTotalDeductions(empObj.getFederalTax(), empObj.getStateTax());
                         empObj.setNetPay(empObj.getGrossPay(), empObj.getTotalDeductions());
 

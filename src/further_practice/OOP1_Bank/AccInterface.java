@@ -2,9 +2,9 @@ package further_practice.OOP1_Bank;
 
 import java.util.Scanner;
 
-public class AccInterface {
+public class AccInterface {}
     
-    public static void main(String [] args){
+   /* public static void main(String [] args){
         //create a counter for storing accounts
         int Acccoun = 1;
         Account[] accounts = new Account[Acccoun];
@@ -13,7 +13,7 @@ public class AccInterface {
         Scanner scan = new Scanner(System.in);
         int x =0, acNo, cash, indx;
 
-        while (x==0) {
+        while (x==0) {s
             System.out.println("My Bank inc..");
             System.out.println("\nHello. Please select one of the options we are providing for you.\n" +
                     "1. View your account details\n" +
@@ -183,3 +183,5 @@ public class AccInterface {
 
     }//end main
 }//end class
+
+    */

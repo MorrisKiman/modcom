@@ -12,7 +12,7 @@ public class Appointment_Interface {
             System.out.println("Appointment management System");
             for (int i = 0; i < appointment.length; i++) {
                 System.out.print("\nENter the Name of a Patient: ");
-                appointment[i].setNames(scan.next());
+                appointment[i].setNames(scan.nextLine());
 
                 System.out.print("\nENter the Date of appointment: ");
                 appointment[i].setDay(scan.next());
